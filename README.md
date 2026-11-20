@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://shirui-liu.github.io/floating-clock/">
-    <img src="https://raw.githubusercontent.com/shirui-liu/floating-clock/main/floating-clock-banner.svg" alt="Floating Clock" width="840" />
+    <img src="https://raw.githubusercontent.com/shirui-liu/floating-clock/main/floating-clock-preview.gif" alt="Floating Clock" width="840" />
   </a>
 </p>
 
